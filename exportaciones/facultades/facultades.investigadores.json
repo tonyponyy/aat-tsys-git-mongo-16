@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "653699ab35884c87509d212a"
+  },
+  "nomapels": "Laura Pleistoceno",
+  "dni": "3238998P",
+  "facultad": "6536976a35884c87509d2122"
+},
+{
+  "_id": {
+    "$oid": "653699ab35884c87509d212b"
+  },
+  "nomapels": "Carla Bracon",
+  "dni": "345345H",
+  "facultad": "6536976a35884c87509d2122"
+},
+{
+  "_id": {
+    "$oid": "653699ab35884c87509d212c"
+  },
+  "nomapels": "Estefano beige",
+  "dni": "345235J",
+  "facultad": "6536976a35884c87509d2124"
+},
+{
+  "_id": {
+    "$oid": "653699ab35884c87509d212d"
+  },
+  "nomapels": "Ambrosio dicatomo",
+  "dni": "2342344X",
+  "facultad": "6536976a35884c87509d2125"
+}]

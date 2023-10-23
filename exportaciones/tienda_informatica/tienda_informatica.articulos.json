@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "653688a335884c87509d20e0"
+  },
+  "nombre": "impresora",
+  "precio": 120,
+  "fabricante": "653687a235884c87509d20d7"
+},
+{
+  "_id": {
+    "$oid": "653688a335884c87509d20e1"
+  },
+  "nombre": "tonner",
+  "precio": 120,
+  "fabricante": "653687a235884c87509d20d7"
+},
+{
+  "_id": {
+    "$oid": "653688a335884c87509d20e2"
+  },
+  "nombre": "impresora laser",
+  "precio": 220,
+  "fabricante": "653687a235884c87509d20d7"
+},
+{
+  "_id": {
+    "$oid": "653688a335884c87509d20e3"
+  },
+  "nombre": "bobina",
+  "precio": 120,
+  "fabricante": "653687a235884c87509d20d8"
+}]

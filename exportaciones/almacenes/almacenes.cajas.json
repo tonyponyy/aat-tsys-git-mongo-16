@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65368bd935884c87509d20f1"
+  },
+  "contenido": "tornillos",
+  "valor": 50,
+  "almacen": "65368b4235884c87509d20ed"
+},
+{
+  "_id": {
+    "$oid": "65368bd935884c87509d20f2"
+  },
+  "contenido": "clavos",
+  "valor": 35,
+  "almacen": "65368b4235884c87509d20ed"
+},
+{
+  "_id": {
+    "$oid": "65368bd935884c87509d20f3"
+  },
+  "contenido": "revistas",
+  "valor": 100,
+  "almacen": "65368b4b35884c87509d20ee"
+},
+{
+  "_id": {
+    "$oid": "65368bd935884c87509d20f4"
+  },
+  "contenido": "pomos de puerta",
+  "valor": 100,
+  "almacen": "65368b4b35884c87509d20ee"
+}]

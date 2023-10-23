@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6536953535884c87509d2116"
+  },
+  "nombre": "Vinilo Janis Joplin",
+  "precio": 20
+},
+{
+  "_id": {
+    "$oid": "6536953535884c87509d2117"
+  },
+  "nombre": "Pokemon escudo",
+  "precio": 40
+},
+{
+  "_id": {
+    "$oid": "6536953535884c87509d2118"
+  },
+  "nombre": "Tostadora philips",
+  "precio": 30
+},
+{
+  "_id": {
+    "$oid": "6536953535884c87509d2119"
+  },
+  "nombre": "Esterilla Jardin",
+  "precio": 12
+}]

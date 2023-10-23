@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65368b4235884c87509d20ed"
+  },
+  "lugar": "Tarragona",
+  "capacidad": 50
+},
+{
+  "_id": {
+    "$oid": "65368b4b35884c87509d20ee"
+  },
+  "lugar": "Reus",
+  "capacidad": 50
+},
+{
+  "_id": {
+    "$oid": "65368b4b35884c87509d20ef"
+  },
+  "lugar": "Valls",
+  "capacidad": 50
+},
+{
+  "_id": {
+    "$oid": "65368b4b35884c87509d20f0"
+  },
+  "lugar": "Constanti",
+  "capacidad": 50
+}]

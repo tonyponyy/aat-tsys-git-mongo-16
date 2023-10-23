@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "653689ff35884c87509d20e8"
+  },
+  "dni": "47765234Z",
+  "nombre": "Joan",
+  "apellidos": "carmel",
+  "departamento": "653689d535884c87509d20e4"
+},
+{
+  "_id": {
+    "$oid": "65368a7035884c87509d20e9"
+  },
+  "dni": "47765234Z",
+  "nombre": "Joan",
+  "apellidos": "carmel",
+  "departamento": "653689d535884c87509d20e4"
+},
+{
+  "_id": {
+    "$oid": "65368a7035884c87509d20ea"
+  },
+  "dni": "324234J",
+  "nombre": "Lara",
+  "apellidos": "cañon",
+  "departamento": "653689d535884c87509d20e4"
+},
+{
+  "_id": {
+    "$oid": "65368a7035884c87509d20eb"
+  },
+  "dni": "324234J",
+  "nombre": "Eustaquio",
+  "apellidos": "garzón",
+  "departamento": "653689e235884c87509d20e6"
+},
+{
+  "_id": {
+    "$oid": "65368a7035884c87509d20ec"
+  },
+  "dni": "5674536I",
+  "nombre": "Isaura",
+  "apellidos": "Bechamel",
+  "departamento": "653689e835884c87509d20e7"
+}]

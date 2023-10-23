@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65369b0f35884c87509d212e"
+  },
+  "nomapels": "Laura Pleistoceno",
+  "dni": "3238998P"
+},
+{
+  "_id": {
+    "$oid": "65369b0f35884c87509d212f"
+  },
+  "nomapels": "David Ramonero",
+  "dni": "3238998P"
+},
+{
+  "_id": {
+    "$oid": "65369b0f35884c87509d2130"
+  },
+  "nomapels": "Estomacio Garcia",
+  "dni": "3238998P"
+},
+{
+  "_id": {
+    "$oid": "65369b0f35884c87509d2131"
+  },
+  "nomapels": "Taciturnio Miranda",
+  "dni": "3238998P"
+}]

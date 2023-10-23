@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6536976a35884c87509d2122"
+  },
+  "nombre": "Sescelades"
+},
+{
+  "_id": {
+    "$oid": "6536976a35884c87509d2123"
+  },
+  "nombre": "Juridiques"
+},
+{
+  "_id": {
+    "$oid": "6536976a35884c87509d2124"
+  },
+  "nombre": "SocioSanitario"
+},
+{
+  "_id": {
+    "$oid": "6536976a35884c87509d2125"
+  },
+  "nombre": "Educacion"
+}]

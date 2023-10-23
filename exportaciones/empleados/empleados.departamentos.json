@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "653689d535884c87509d20e4"
+  },
+  "nombre": "Marketing",
+  "presupuesto": 500
+},
+{
+  "_id": {
+    "$oid": "653689dc35884c87509d20e5"
+  },
+  "nombre": "Recursos humanos",
+  "presupuesto": 500
+},
+{
+  "_id": {
+    "$oid": "653689e235884c87509d20e6"
+  },
+  "nombre": "Software",
+  "presupuesto": 500
+},
+{
+  "_id": {
+    "$oid": "653689e835884c87509d20e7"
+  },
+  "nombre": "Reparaciones",
+  "presupuesto": 500
+}]

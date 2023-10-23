@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65368c8a35884c87509d20f5"
+  },
+  "nombre": "Harry potter",
+  "calificacion_edad": 7
+},
+{
+  "_id": {
+    "$oid": "65368c9335884c87509d20f6"
+  },
+  "nombre": "DBS La resurreció de freezer",
+  "calificacion_edad": 12
+},
+{
+  "_id": {
+    "$oid": "65368c9b35884c87509d20f7"
+  },
+  "nombre": "Kill bill vol 2",
+  "calificacion_edad": 16
+},
+{
+  "_id": {
+    "$oid": "65368ca135884c87509d20f8"
+  },
+  "nombre": "Barbie",
+  "calificacion_edad": 7
+}]

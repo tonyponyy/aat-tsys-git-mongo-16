@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6536999835884c87509d2126"
+  },
+  "dni_investigador": "3238998P",
+  "num_serie": 123,
+  "comienzo": "20/10/2023"
+},
+{
+  "_id": {
+    "$oid": "6536999835884c87509d2127"
+  },
+  "dni_investigador": "2342344X",
+  "num_serie": 54,
+  "comienzo": "10/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6536999835884c87509d2128"
+  },
+  "dni_investigador": "345345H",
+  "num_serie": 33,
+  "comienzo": "12/4/2020",
+  "final": "10/2/2022"
+},
+{
+  "_id": {
+    "$oid": "6536999835884c87509d2129"
+  },
+  "dni_investigador": "345235J",
+  "num_serie": 77,
+  "comienzo": "12/10/2023"
+}]

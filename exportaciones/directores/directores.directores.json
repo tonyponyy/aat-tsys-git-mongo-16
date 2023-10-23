@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "653690ef35884c87509d2102"
+  },
+  "dni": "554534kL",
+  "nomapels": "Alfonso Garrido",
+  "despacho": "65368e9935884c87509d20fd"
+},
+{
+  "_id": {
+    "$oid": "653690ef35884c87509d2103"
+  },
+  "dni": "2323434P",
+  "nomapels": "Lara Carbó",
+  "despacho": "65368e9935884c87509d20fd"
+},
+{
+  "_id": {
+    "$oid": "653690ef35884c87509d2104"
+  },
+  "dni": "3456435Z",
+  "nomapels": "Lourdes Anafrasia",
+  "despacho": "65368e9935884c87509d20fd"
+},
+{
+  "_id": {
+    "$oid": "653690ef35884c87509d2105"
+  },
+  "dni": "22133234H",
+  "nomapels": "Alfonso Perez",
+  "despacho": "65368e9935884c87509d20fd",
+  "dni_jefe": "554534kL"
+}]

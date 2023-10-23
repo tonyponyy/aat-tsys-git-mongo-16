@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6536953535884c87509d2112"
+  },
+  "nomapels": "Jose castaña"
+},
+{
+  "_id": {
+    "$oid": "6536953535884c87509d2113"
+  },
+  "nomapels": "Laura Pleistoceno"
+},
+{
+  "_id": {
+    "$oid": "6536953535884c87509d2114"
+  },
+  "nomapels": "Marc sanguin"
+},
+{
+  "_id": {
+    "$oid": "6536953535884c87509d2115"
+  },
+  "nomapels": "Carlos Llopis"
+}]
